@@ -10,7 +10,7 @@
  * input输入数字自动变为三位小数
  *
  * @example
- <example module="moneyModule">
+ <example module="money">
  <file name="index.html">
  <input type="text" class="input-small text-align-right" ng-model="newPrice" money>
  </file>

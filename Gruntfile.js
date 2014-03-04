@@ -7,7 +7,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     ngdocs: {
       options: {
-        scripts: ['angular.js', '../heren-date-time.js'],
+        scripts: ['angular.js','../heren-date-time.js','../heren-money.js'],
         html5Mode: true
       },
       all: ['*.js']
